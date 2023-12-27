@@ -56,10 +56,10 @@ object Table:
      * ranking ordinal eg rank 3 skips to 5:
      *
      *  1. Tarantulas, 6 pts
-     *     2. Lions, 5 pts
-     *     3. FC Awesome, 1 pt
-     *     3. Snakes, 1 pt
-     *     5. Grouches, 0 pts
+     *  2. Lions, 5 pts
+     *  3. FC Awesome, 1 pt
+     *  3. Snakes, 1 pt
+     *  5. Grouches, 0 pts
      *
      * @return Seq[TeamPoints] with the Ranking applied Ranking -> Team -> Points
      */
